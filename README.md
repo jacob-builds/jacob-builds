@@ -1,4 +1,7 @@
-## Hi there 👋
+Hello there! 
+<!-- Certificates -->
+
+[![Boot.dev Learn Data Structures and Algorithms in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/8a0ee4ad-8fd7-40b3-8fe2-a72150cee41b.jpeg?v=1786922395)](https://www.boot.dev/certificates/8a0ee4ad-8fd7-40b3-8fe2-a72150cee41b)
 
 <!--
 **jacob-builds/jacob-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
